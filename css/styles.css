@@ -67,7 +67,6 @@ body {
 
 .navigation-link,
 .connection-link {
-    font-family: 'Roboto', sans-serif;
     font-weight: 500;
     font-size: 14px;
     line-height: 1.14;
@@ -165,8 +164,6 @@ body {
 
 .team-desk,
 .portfolio-desc {
-    font-weight: 400;
-    font-size: 16px;
     line-height: calc(19/16);
     text-align: center;
     letter-spacing: 0.03em;
@@ -183,9 +180,7 @@ body {
 
 .address,
 .footer-link {
-    font-family: var(--main-font);
     font-style: normal;
-    font-weight: 400;
     font-size: 14px;
     line-height: calc(24/14);
     letter-spacing: 0.03em;
